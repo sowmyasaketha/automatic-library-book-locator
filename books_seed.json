@@ -1,0 +1,754 @@
+[
+  {
+    "id": "BOOK-1234-5678",
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "status": "Available",
+    "shelf": "Shelf-A1",
+    "genre": "Fiction/Philosophical"
+  },
+  {
+    "id": "BOOK-2345-6789",
+    "title": "Wings of Fire",
+    "author": "A.P.J. Abdul Kalam",
+    "status": "Borrowed",
+    "shelf": "Shelf-B2",
+    "genre": "Biography/Autobiography"
+  },
+  {
+    "id": "BOOK-3456-7890",
+    "title": "Harry Potter",
+    "author": "J.K. Rowling",
+    "status": "Available",
+    "shelf": "Shelf-C3",
+    "genre": "Fantasy/Young Adult"
+  },
+  {
+    "id": "BOOK-4567-8901",
+    "title": "The Kite Runner",
+    "author": "Khaled Hosseini",
+    "status": "Available",
+    "shelf": "Shelf-B3",
+    "genre": "Fiction/Historical"
+  },
+  {
+    "id": "BOOK-5678-9012",
+    "title": "The Fault in Our Stars",
+    "author": "John Green",
+    "status": "Available",
+    "shelf": "Shelf-A1",
+    "genre": "Young Adult/Romance"
+  },
+  {
+    "id": "BOOK-6789-0123",
+    "title": "It Ends With Us",
+    "author": "Colleen Hoover",
+    "status": "Borrowed",
+    "shelf": "Shelf-B1",
+    "genre": "Romance/Fiction"
+  },
+  {
+    "id": "BOOK-3756-7990",
+    "title": "The White Tiger",
+    "author": "Aravind Adiga",
+    "status": "Available",
+    "shelf": "Shelf-C2",
+    "genre": "Fiction/Satire"
+  },
+  {
+    "id": "BOOK-4667-8991",
+    "title": "Malgudi Days",
+    "author": "R.K. Narayan",
+    "status": "Available",
+    "shelf": "Shelf-A3",
+    "genre": "Fiction/Short Stories"
+  },
+  {
+    "id": "BOOK-7890-1234",
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "status": "Available",
+    "shelf": "Shelf-C1",
+    "genre": "Classic Fiction/Romance"
+  },
+  {
+    "id": "BOOK-8901-2345",
+    "title": "1984",
+    "author": "George Orwell",
+    "status": "Borrowed",
+    "shelf": "Shelf-B2",
+    "genre": "Dystopian/Classic Fiction"
+  },
+  {
+    "id": "BOOK-9012-3456",
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "status": "Available",
+    "shelf": "Shelf-A2",
+    "genre": "Classic Fiction/Social"
+  },
+  {
+    "id": "BOOK-0123-4567",
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "status": "Borrowed",
+    "shelf": "Shelf-B3",
+    "genre": "Classic Fiction"
+  },
+  {
+    "id": "BOOK-1235-5679",
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "status": "Available",
+    "shelf": "Shelf-A1",
+    "genre": "Classic Fiction/Young Adult"
+  },
+  {
+    "id": "BOOK-2346-6780",
+    "title": "The God of Small Things",
+    "author": "Arundhati Roy",
+    "status": "Available",
+    "shelf": "Shelf-C2",
+    "genre": "Fiction"
+  },
+  {
+    "id": "BOOK-3457-7891",
+    "title": "Five Point Someone",
+    "author": "Chetan Bhagat",
+    "status": "Borrowed",
+    "shelf": "Shelf-B1",
+    "genre": "Fiction/Young Adult"
+  },
+  {
+    "id": "BOOK-4568-8902",
+    "title": "Train to Pakistan",
+    "author": "Khushwant Singh",
+    "status": "Available",
+    "shelf": "Shelf-C3",
+    "genre": "Historical Fiction"
+  },
+  {
+    "id": "BOOK-5679-9013",
+    "title": "The Monk Who Sold His Ferrari",
+    "author": "Robin Sharma",
+    "status": "Available",
+    "shelf": "Shelf-A3",
+    "genre": "Self-Help"
+  },
+  {
+    "id": "BOOK-6780-0124",
+    "title": "Rich Dad Poor Dad",
+    "author": "Robert T. Kiyosaki",
+    "status": "Borrowed",
+    "shelf": "Shelf-B2",
+    "genre": "Self-Help/Finance"
+  },
+  {
+    "id": "BOOK-7891-1235",
+    "title": "Think Like a Monk",
+    "author": "Jay Shetty",
+    "status": "Available",
+    "shelf": "Shelf-C1",
+    "genre": "Self-Help"
+  },
+  {
+    "id": "BOOK-8902-2346",
+    "title": "The Power of Your Subconscious Mind",
+    "author": "Joseph Murphy",
+    "status": "Available",
+    "shelf": "Shelf-A2",
+    "genre": "Self-Help"
+  },
+  {
+    "id": "BOOK-9013-3457",
+    "title": "You Can Win",
+    "author": "Shiv Khera",
+    "status": "Borrowed",
+    "shelf": "Shelf-B3",
+    "genre": "Self-Help"
+  },
+  {
+    "id": "BOOK-0124-4568",
+    "title": "The Secret",
+    "author": "Rhonda Byrne",
+    "status": "Available",
+    "shelf": "Shelf-A1",
+    "genre": "Self-Help"
+  },
+  {
+    "id": "BOOK-1236-5670",
+    "title": "Ikigai",
+    "author": "Hector Garcia",
+    "status": "Available",
+    "shelf": "Shelf-C2",
+    "genre": "Self-Help"
+  },
+  {
+    "id": "BOOK-2347-6781",
+    "title": "Sapiens: A Brief History of Humankind",
+    "author": "Yuval Noah Harari",
+    "status": "Available",
+    "shelf": "Shelf-B1",
+    "genre": "Non-Fiction/History"
+  },
+  {
+    "id": "BOOK-3458-7892",
+    "title": "Atomic Habits",
+    "author": "James Clear",
+    "status": "Borrowed",
+    "shelf": "Shelf-C3",
+    "genre": "Self-Help"
+  },
+  {
+    "id": "BOOK-4569-8903",
+    "title": "The 5 AM Club",
+    "author": "Robin Sharma",
+    "status": "Available",
+    "shelf": "Shelf-A3",
+    "genre": "Self-Help"
+  },
+  {
+    "id": "BOOK-5670-9014",
+    "title": "Becoming",
+    "author": "Michelle Obama",
+    "status": "Available",
+    "shelf": "Shelf-C1",
+    "genre": "Biography/Autobiography"
+  },
+  {
+    "id": "BOOK-6781-0125",
+    "title": "The Subtle Art of Not Giving a F*ck",
+    "author": "Mark Manson",
+    "status": "Borrowed",
+    "shelf": "Shelf-B2",
+    "genre": "Self-Help"
+  },
+  {
+    "id": "BOOK-7892-1236",
+    "title": "The Psychology of Money",
+    "author": "Morgan Housel",
+    "status": "Available",
+    "shelf": "Shelf-A2",
+    "genre": "Self-Help/Finance"
+  },
+  {
+    "id": "BOOK-8903-2347",
+    "title": "Start with Why",
+    "author": "Simon Sinek",
+    "status": "Borrowed",
+    "shelf": "Shelf-B3",
+    "genre": "Self-Help/Business"
+  },
+  {
+    "id": "BOOK-9014-3458",
+    "title": "Can't Hurt Me",
+    "author": "David Goggins",
+    "status": "Available",
+    "shelf": "Shelf-C2",
+    "genre": "Biography/Self-Help"
+  },
+  {
+    "id": "BOOK-0125-4569",
+    "title": "The Magic of Thinking Big",
+    "author": "David J. Schwartz",
+    "status": "Available",
+    "shelf": "Shelf-A1",
+    "genre": "Self-Help"
+  },
+  {
+    "id": "BOOK-1237-5671",
+    "title": "Deep Work",
+    "author": "Cal Newport",
+    "status": "Borrowed",
+    "shelf": "Shelf-B1",
+    "genre": "Self-Help/Productivity"
+  },
+  {
+    "id": "BOOK-2348-6782",
+    "title": "Think Like a Monk (2nd Copy)",
+    "author": "Jay Shetty",
+    "status": "Available",
+    "shelf": "Shelf-A2",
+    "genre": "Self-Help"
+  },
+  {
+    "id": "BOOK-3459-7893",
+    "title": "Ikigai: The Japanese Secret",
+    "author": "Hector Garcia",
+    "status": "Borrowed",
+    "shelf": "Shelf-B3",
+    "genre": "Self-Help"
+  },
+  {
+    "id": "BOOK-4560-8904",
+    "title": "Artificial Intelligence: A Modern Approach",
+    "author": "Stuart Russell & Peter Norvig",
+    "status": "Available",
+    "shelf": "Shelf-A1",
+    "genre": "Technology/AI"
+  },
+  {
+    "id": "BOOK-6782-0126",
+    "title": "Python Machine Learning",
+    "author": "Sebastian Raschka",
+    "status": "Available",
+    "shelf": "Shelf-C3",
+    "genre": "Technology/Machine Learning"
+  },
+  {
+    "id": "BOOK-8904-2348",
+    "title": "Machine Learning for Beginners",
+    "author": "Oliver Theobald",
+    "status": "Borrowed",
+    "shelf": "Shelf-A2",
+    "genre": "Technology/Machine Learning"
+  },
+  {
+    "id": "BOOK-9015-3459",
+    "title": "Introduction to Machine Learning with Python",
+    "author": "Andreas Mueller",
+    "status": "Available",
+    "shelf": "Shelf-C2",
+    "genre": "Technology/Machine Learning"
+  },
+  {
+    "id": "BOOK-1238-5672",
+    "title": "The Hundred-Page Machine Learning Book",
+    "author": "Andriy Burkov",
+    "status": "Borrowed",
+    "shelf": "Shelf-A3",
+    "genre": "Technology/Machine Learning"
+  },
+  {
+    "id": "BOOK-3450-7894",
+    "title": "Life 3.0: Being Human in the Age of AI",
+    "author": "Max Tegmark",
+    "status": "Borrowed",
+    "shelf": "Shelf-B2",
+    "genre": "Technology/AI"
+  },
+  {
+    "id": "BOOK-4561-8905",
+    "title": "Data Science for Business",
+    "author": "Foster Provost",
+    "status": "Available",
+    "shelf": "Shelf-C3",
+    "genre": "Technology/Data Science"
+  },
+  {
+    "id": "BOOK-5672-9016",
+    "title": "The Art of Thinking Clearly",
+    "author": "Rolf Dobelli",
+    "status": "Available",
+    "shelf": "Shelf-A2",
+    "genre": "Self-Help"
+  },
+  {
+    "id": "BOOK-6783-0127",
+    "title": "The Power of Habit",
+    "author": "Charles Duhigg",
+    "status": "Borrowed",
+    "shelf": "Shelf-B1",
+    "genre": "Self-Help/Psychology"
+  },
+  {
+    "id": "BOOK-7894-1238",
+    "title": "Flow: Psychology of Optimal Experience",
+    "author": "Mihaly Csikszentmihalyi",
+    "status": "Available",
+    "shelf": "Shelf-C2",
+    "genre": "Self-Help/Psychology"
+  },
+  {
+    "id": "BOOK-8905-2349",
+    "title": "Algorithms to Live By",
+    "author": "Brian Christian",
+    "status": "Available",
+    "shelf": "Shelf-A3",
+    "genre": "Non-Fiction/Technology"
+  },
+  {
+    "id": "BOOK-9016-3460",
+    "title": "The Singularity Is Near",
+    "author": "Ray Kurzweil",
+    "status": "Borrowed",
+    "shelf": "Shelf-B3",
+    "genre": "Technology/Futurism"
+  },
+  {
+    "id": "BOOK-0127-4571",
+    "title": "Human Compatible",
+    "author": "Stuart Russell",
+    "status": "Available",
+    "shelf": "Shelf-A1",
+    "genre": "Technology/AI"
+  },
+  {
+    "id": "BOOK-1239-5673",
+    "title": "Machine Learning Yearning",
+    "author": "Andrew Ng",
+    "status": "Available",
+    "shelf": "Shelf-C1",
+    "genre": "Technology/Machine Learning"
+  },
+  {
+    "id": "BOOK-2350-6784",
+    "title": "Make Your Bed",
+    "author": "Admiral W.H. McRaven",
+    "status": "Borrowed",
+    "shelf": "Shelf-A2",
+    "genre": "Self-Help"
+  },
+  {
+    "id": "BOOK-3451-7895",
+    "title": "Rework",
+    "author": "Jason Fried",
+    "status": "Available",
+    "shelf": "Shelf-B1",
+    "genre": "Self-Help/Business"
+  },
+  {
+    "id": "BOOK-4562-8906",
+    "title": "Percy Jackson: The Lightning Thief",
+    "author": "Rick Riordan",
+    "status": "Available",
+    "shelf": "Shelf-A3",
+    "genre": "Fantasy/Young Adult"
+  },
+  {
+    "id": "BOOK-6784-0128",
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "status": "Available",
+    "shelf": "Shelf-C2",
+    "genre": "Fantasy"
+  },
+  {
+    "id": "BOOK-7895-1239",
+    "title": "The Lord of the Rings",
+    "author": "J.R.R. Tolkien",
+    "status": "Available",
+    "shelf": "Shelf-B3",
+    "genre": "Fantasy"
+  },
+  {
+    "id": "BOOK-8906-2350",
+    "title": "Fantastic Beasts",
+    "author": "J.K. Rowling",
+    "status": "Borrowed",
+    "shelf": "Shelf-A1",
+    "genre": "Fantasy/Young Adult"
+  },
+  {
+    "id": "BOOK-9017-3461",
+    "title": "The Hunger Games",
+    "author": "Suzanne Collins",
+    "status": "Available",
+    "shelf": "Shelf-C3",
+    "genre": "Dystopian/Young Adult"
+  },
+  {
+    "id": "BOOK-0128-4572",
+    "title": "Divergent",
+    "author": "Veronica Roth",
+    "status": "Available",
+    "shelf": "Shelf-B2",
+    "genre": "Dystopian/Young Adult"
+  },
+  {
+    "id": "BOOK-1230-5674",
+    "title": "Eragon",
+    "author": "Christopher Paolini",
+    "status": "Borrowed",
+    "shelf": "Shelf-A2",
+    "genre": "Fantasy/Young Adult"
+  },
+  {
+    "id": "BOOK-2340-6785",
+    "title": "The Golden Compass",
+    "author": "Philip Pullman",
+    "status": "Available",
+    "shelf": "Shelf-C1",
+    "genre": "Fantasy/Young Adult"
+  },
+  {
+    "id": "BOOK-3452-7896",
+    "title": "City of Bones",
+    "author": "Cassandra Clare",
+    "status": "Available",
+    "shelf": "Shelf-B3",
+    "genre": "Fantasy/Young Adult"
+  },
+  {
+    "id": "BOOK-4563-8907",
+    "title": "A Court of Thorns and Roses",
+    "author": "Sarah J. Maas",
+    "status": "Borrowed",
+    "shelf": "Shelf-A3",
+    "genre": "Fantasy/Romance"
+  },
+  {
+    "id": "BOOK-5674-9018",
+    "title": "The Inheritance Games",
+    "author": "Jennifer Lynn Barnes",
+    "status": "Available",
+    "shelf": "Shelf-B2",
+    "genre": "Young Adult/Mystery"
+  },
+  {
+    "id": "BOOK-6785-0129",
+    "title": "Throne of Glass",
+    "author": "Sarah J. Maas",
+    "status": "Available",
+    "shelf": "Shelf-C3",
+    "genre": "Fantasy/Young Adult"
+  },
+  {
+    "id": "BOOK-7896-1240",
+    "title": "Six of Crows",
+    "author": "Leigh Bardugo",
+    "status": "Borrowed",
+    "shelf": "Shelf-A1",
+    "genre": "Fantasy/Young Adult"
+  },
+  {
+    "id": "BOOK-8907-2351",
+    "title": "Shadow and Bone",
+    "author": "Leigh Bardugo",
+    "status": "Available",
+    "shelf": "Shelf-C2",
+    "genre": "Fantasy/Young Adult"
+  },
+  {
+    "id": "BOOK-5675-9019",
+    "title": "The Shining",
+    "author": "Stephen King",
+    "status": "Borrowed",
+    "shelf": "Shelf-B1",
+    "genre": "Horror"
+  },
+  {
+    "id": "BOOK-6786-0130",
+    "title": "Dracula",
+    "author": "Bram Stoker",
+    "status": "Available",
+    "shelf": "Shelf-C1",
+    "genre": "Horror/Classic Fiction"
+  },
+  {
+    "id": "BOOK-7897-1241",
+    "title": "Frankenstein",
+    "author": "Mary Shelley",
+    "status": "Available",
+    "shelf": "Shelf-B2",
+    "genre": "Horror/Classic Fiction"
+  },
+  {
+    "id": "BOOK-8908-2352",
+    "title": "The Haunting of Hill House",
+    "author": "Shirley Jackson",
+    "status": "Borrowed",
+    "shelf": "Shelf-A3",
+    "genre": "Horror/Classic Fiction"
+  },
+  {
+    "id": "BOOK-9019-3462",
+    "title": "Bird Box",
+    "author": "Josh Malerman",
+    "status": "Available",
+    "shelf": "Shelf-C3",
+    "genre": "Horror/Thriller"
+  },
+  {
+    "id": "BOOK-0130-4573",
+    "title": "Coraline",
+    "author": "Neil Gaiman",
+    "status": "Available",
+    "shelf": "Shelf-B3",
+    "genre": "Fantasy/Horror"
+  },
+  {
+    "id": "BOOK-1231-5675",
+    "title": "The Exorcist",
+    "author": "William Peter Blatty",
+    "status": "Borrowed",
+    "shelf": "Shelf-A1",
+    "genre": "Horror"
+  },
+  {
+    "id": "BOOK-2341-6786",
+    "title": "The Silent Patient",
+    "author": "Alex Michaelides",
+    "status": "Available",
+    "shelf": "Shelf-C2",
+    "genre": "Thriller/Mystery"
+  },
+  {
+    "id": "BOOK-3453-7897",
+    "title": "The Girl with All the Gifts",
+    "author": "M.R. Carey",
+    "status": "Available",
+    "shelf": "Shelf-B1",
+    "genre": "Sci-Fi/Horror"
+  },
+  {
+    "id": "BOOK-4565-8909",
+    "title": "Mexican Gothic",
+    "author": "Silvia Moreno-Garcia",
+    "status": "Borrowed",
+    "shelf": "Shelf-A2",
+    "genre": "Gothic Horror"
+  },
+  {
+    "id": "BOOK-5676-9020",
+    "title": "The Turn of the Screw",
+    "author": "Henry James",
+    "status": "Available",
+    "shelf": "Shelf-C3",
+    "genre": "Gothic Horror"
+  },
+  {
+    "id": "BOOK-6787-0131",
+    "title": "House of Leaves",
+    "author": "Mark Z. Danielewski",
+    "status": "Available",
+    "shelf": "Shelf-B2",
+    "genre": "Horror/Experimental"
+  },
+  {
+    "id": "BOOK-7898-1242",
+    "title": "Hell House",
+    "author": "Richard Matheson",
+    "status": "Borrowed",
+    "shelf": "Shelf-A3",
+    "genre": "Horror"
+  },
+  {
+    "id": "BOOK-8909-2353",
+    "title": "World War Z",
+    "author": "Max Brooks",
+    "status": "Available",
+    "shelf": "Shelf-C1",
+    "genre": "Horror/Sci-Fi"
+  },
+  {
+    "id": "BOOK-9020-3463",
+    "title": "Pet Sematary",
+    "author": "Stephen King",
+    "status": "Available",
+    "shelf": "Shelf-B3",
+    "genre": "Horror"
+  },
+  {
+    "id": "BOOK-0131-4574",
+    "title": "The Woman in Black",
+    "author": "Susan Hill",
+    "status": "Borrowed",
+    "shelf": "Shelf-A1",
+    "genre": "Horror"
+  },
+  {
+    "id": "BOOK-1232-5676",
+    "title": "The Outsider",
+    "author": "Stephen King",
+    "status": "Available",
+    "shelf": "Shelf-B2",
+    "genre": "Horror"
+  },
+  {
+    "id": "BOOK-2342-6787",
+    "title": "The Cabin at the End of the World",
+    "author": "Paul Tremblay",
+    "status": "Available",
+    "shelf": "Shelf-C2",
+    "genre": "Horror/Thriller"
+  },
+  {
+    "id": "BOOK-3454-7898",
+    "title": "The Whisper Man",
+    "author": "Alex North",
+    "status": "Borrowed",
+    "shelf": "Shelf-B1",
+    "genre": "Thriller/Mystery"
+  },
+  {
+    "id": "BOOK-1111-2222",
+    "title": "The Lord of the Rings (Special Ed.)",
+    "author": "J.R.R. Tolkien",
+    "status": "Available",
+    "shelf": "Shelf-A1",
+    "genre": "Fantasy"
+  },
+  {
+    "id": "BOOK-2222-3333",
+    "title": "The Chronicles of Narnia",
+    "author": "C.S. Lewis",
+    "status": "Borrowed",
+    "shelf": "Shelf-B2",
+    "genre": "Fantasy/Young Adult"
+  },
+  {
+    "id": "BOOK-3333-4444",
+    "title": "The Hunger Games (2nd Copy)",
+    "author": "Suzanne Collins",
+    "status": "Available",
+    "shelf": "Shelf-C2",
+    "genre": "Dystopian/Young Adult"
+  },
+  {
+    "id": "BOOK-4444-5555",
+    "title": "The Maze Runner",
+    "author": "James Dashner",
+    "status": "Available",
+    "shelf": "Shelf-B3",
+    "genre": "Dystopian/Young Adult"
+  },
+  {
+    "id": "BOOK-5555-6666",
+    "title": "The Da Vinci Code",
+    "author": "Dan Brown",
+    "status": "Borrowed",
+    "shelf": "Shelf-A2",
+    "genre": "Thriller/Mystery"
+  },
+  {
+    "id": "BOOK-6666-7777",
+    "title": "Life of Pi",
+    "author": "Yann Martel",
+    "status": "Available",
+    "shelf": "Shelf-C3",
+    "genre": "Fiction/Philosophical"
+  },
+  {
+    "id": "BOOK-7777-8888",
+    "title": "The Fault in Our Stars (2nd Copy)",
+    "author": "John Green",
+    "status": "Available",
+    "shelf": "Shelf-B1",
+    "genre": "Young Adult/Romance"
+  },
+  {
+    "id": "BOOK-8888-9999",
+    "title": "Gone Girl",
+    "author": "Gillian Flynn",
+    "status": "Borrowed",
+    "shelf": "Shelf-C1",
+    "genre": "Thriller/Mystery"
+  },
+  {
+    "id": "BOOK-9999-0000",
+    "title": "Me Before You",
+    "author": "Jojo Moyes",
+    "status": "Available",
+    "shelf": "Shelf-A3",
+    "genre": "Romance/Fiction"
+  },
+  {
+    "id": "BOOK-1010-2020",
+    "title": "The Girl on the Train",
+    "author": "Paula Hawkins",
+    "status": "Borrowed",
+    "shelf": "Shelf-B2",
+    "genre": "Thriller/Mystery"
+  }
+]
