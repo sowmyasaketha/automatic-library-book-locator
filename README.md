@@ -447,34 +447,6 @@ Possible future improvements include:
 - 🔔 Real-time notifications
 - 📚 Personalized recommendations
 - 📍 More detailed visual library mapping
-📸 Screenshots
-Add screenshots of the application here.
-Suggested screenshots:
-1. Login Page
-2. Dashboard
-3. Books Management
-4. Search & Locate
-5. Borrow / Return
-6. Reservations
-7. Library Map
-8. Recommendations
-9. Analytics
-Example:
-
-### Login
-<img width="874" height="1104" alt="image" src="https://github.com/user-attachments/assets/3aae4d21-68ac-467d-aaf4-8234fbfbf27b" />
-
-
-### Dashboard
-<img width="2806" height="1448" alt="image" src="https://github.com/user-attachments/assets/c019213a-0af9-4b38-b0ca-25933521963a" />
-
-### Search & Locate
-<img width="2796" height="1440" alt="image" src="https://github.com/user-attachments/assets/09dd7dcf-390a-436f-b445-0c31e1ef1c51" />
-
-
-### Analytics
-<img width="2826" height="1412" alt="image" src="https://github.com/user-attachments/assets/562d76d8-6fa8-4e22-aa08-6231f9bdde7c" />
-
 
 🎓 Project Objective
 The main objective of this project is to provide a centralized software solution for managing library books and everyday circulation activities.
